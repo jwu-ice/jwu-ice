@@ -1,5 +1,5 @@
 
-### 🍊 Hello, I'm Jwu 
+### Hello, I'm Jwu 
 🍎 My Notion : [Jwu's Box](https://jwuu.notion.site/5b44ef5fc37c4b979535406aba51145f)  
 🍋 My Email  : [sju02048@naver.com](https://sju02048@naver.com)
 
