@@ -1,6 +1,6 @@
 
 ### Hello, I'm 쥬
-![Naver Badge](http://img.shields.io/badge/sju02048@naver.com-000000?logo=naver&style=for-the-badge) 
+![Naver Badge](http://img.shields.io/badge/jestablisher@gmail.com-000000?logo=naver&style=for-the-badge) 
 
 
 ### Favorite Stacks 
