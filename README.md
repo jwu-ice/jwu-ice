@@ -1,6 +1,6 @@
 
 ### Hello, I'm 쥬
-![Naver Badge](http://img.shields.io/badge/jestablisher@gmail.com-000000?logo=naver&style=for-the-badge) 
+![google Badge](http://img.shields.io/badge/jestablisher@gmail.com-000000?logo=google&style=for-the-badge) 
 
 
 ### Favorite Stacks 
